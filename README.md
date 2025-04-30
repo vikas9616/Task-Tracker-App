@@ -18,12 +18,12 @@ It can serve as a starter project for anyone looking to learn full-stack develop
 - React.js
 - Vite (for fast development)
 - Axios (for API requests)
-- TailwindCSS (for styling) *(optional, if used)*
+- TailwindCSS (for styling) 
 
 **Backend:**
 - Node.js
 - Express.js
-- MongoDB (planned/future enhancement, if not currently integrated)
+- MongoDB 
 - CORS and Body-Parser Middleware
 
 ---
